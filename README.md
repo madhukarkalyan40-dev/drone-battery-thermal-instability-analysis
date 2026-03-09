@@ -5,8 +5,8 @@ Drone Technologies and its Transformative Applications
 CIA 3 – Project Activities  
 
 ## Students
-Sai Madhukar K – Register Number: XXXXXXXX  
-Second Student Name – Register Number: XXXXXXXX  
+Sai Madhukar K – Register Number: 2362873
+Anish S – Register Number:2362871
 
 ## Project Description
 This project evaluates the thermal instability behavior of lithium-ion batteries used in drone systems under heat stress conditions. The objective is to analyze temperature rise, heat generation, and thermal runaway behavior during abnormal operating conditions.
@@ -26,22 +26,22 @@ A simulation-based approach was used to study the thermal characteristics of dro
 # Simulation Results
 
 ## Normal Operation vs Thermal Runaway
-![Temperature Simulation](figures/normal_vs_thermal_runaway.png)
+![Temperature Simulation](normal_vs_thermal_runaway.png)
 
 ## Heat Generation vs Heat Dissipation
-![Heat Generation](figures/heat_generation_vs_dissipation.png)
+![Heat Generation](heat_generation_vs_dissipation.png)
 
 ## Battery Safety Temperature Limits
-![Safety Limits](figures/battery_safety_limits.png)
+![Safety Limits](battery_safety_limits.png)
 
 ## Thermal Runaway Propagation
-![Thermal Propagation](figures/thermal_runaway_propagation.png)
+![Thermal Propagation](thermal_runaway_propagation.png)
 
 ## Drone Battery Voltage Profile
-![Voltage Profile](figures/battery_voltage_profile.png)
+![Voltage Profile](battery_voltage_profile.png)
 
 ## 3D Temperature Distribution
-![Temperature Distribution](figures/battery_temperature_distribution.png)
+![Temperature Distribution](battery_temperature_distribution.png)
 
 ---
 
